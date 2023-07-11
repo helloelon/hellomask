@@ -198,9 +198,9 @@ body {
   color: #fff;
   font-size: 2.5vw;
   background: #ffbd84;
-  background: -moz-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: -webkit-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: linear-gradient(to right, #4e9b41 0%, #08cab3 100%);
+  background: -moz-linear-gradient(left, #ff6600 0%, #06f0bc 100%);
+  background: -webkit-linear-gradient(left, #ff6600 0%, #06f0bc 100%);
+  background: linear-gradient(to right, #ff6600 0%, #06f0bc 100%);
   -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
   box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
@@ -313,9 +313,9 @@ div {
   pointer-events: none;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-    background: -moz-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-    background: -webkit-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-    background: linear-gradient(to right, #4e9b41 0%, #08cab3 100%);
+    background: -moz-linear-gradient(left, #ff6600 0%, #06f0bc 100%);
+    background: -webkit-linear-gradient(left, #ff6600 0%, #06f0bc 100%);
+    background: linear-gradient(to right, #ff6600 0%, #06f0bc 100%);
     -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
     box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
@@ -672,9 +672,9 @@ div {
 .btn.buy-now:hover {
   color: #fff;
   background: #ffbd84;
-  background: -moz-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: -webkit-linear-gradient(left, #4e9b41 0%, #08cab3 100%);
-  background: linear-gradient(to right, #4e9b41 0%, #08cab3 100%);
+  background: -moz-linear-gradient(left, #ff6600 0%, #06f0bc 100%);
+  background: -webkit-linear-gradient(left, #ff6600 0%, #06f0bc 100%);
+  background: linear-gradient(to right, #ff6600 0%, #06f0bc 100%);
   -webkit-box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
   box-shadow: 0 10px 15px 0 rgba(49, 122, 59, .2);
 }
